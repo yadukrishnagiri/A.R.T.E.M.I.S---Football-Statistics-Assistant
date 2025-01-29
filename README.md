@@ -44,12 +44,8 @@ artemis-football/
 ├── query_data.py         # Data querying functions
 ├── test_rag.py           # RAG testing module
 ├── static/               # Static assets
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
-│   └── images/
-│       └── team logos and backgrounds
+│   └── team logos and backgrounds
+│       
 ├── data/                 # CSV data files
 │   ├── attacking.csv
 │   ├── attempts.csv
